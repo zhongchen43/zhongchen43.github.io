@@ -1,4 +1,4 @@
-#  My Personal Academic Website
+#  My Personal Website
 
 Zhong Chen（http://www.zchenbio.com/)
 
